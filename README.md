@@ -16,7 +16,7 @@ With prefabs where names are similar Udon can cause compiling errors, With my sy
 <img align="middle"  width="400" height="200"  src="https://i.ibb.co/TrzTNbW/Cap1.png">
 </p>
 <h1 align="center">Requierments</h1>
-<p align="center">-VRChat SDK 3</p>
-<p align="center">UdonSharp</p>
+<p align="center">-VRChat SDK 3-</p>
+<p align="center">-UdonSharp-</p>
 
 <p align="center">If you find any bugs/problems send me a Discord BananaBread#7393</p>
