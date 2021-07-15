@@ -20,3 +20,6 @@ With prefabs where names are similar Udon can cause compiling errors, With my sy
 <p align="center">-UdonSharp-</p>
 
 <p align="center">If you find any bugs/problems send me a Discord BananaBread#7393</p>
+<p align="center">
+<a href="https://vrchat.com/home/launch?worldId=wrld_0aca5c36-7dd8-4b42-91df-1b5cceb2e455&instanceId=64440~hidden(usr_8daf6f74-981f-47ed-91ce-9325074a693a)~region(us)~nonce(225f832e-6672-4a8e-ab39-8e649ff9cd22)">World with that prefab</a>
+</p>
