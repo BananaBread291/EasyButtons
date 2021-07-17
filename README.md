@@ -13,7 +13,7 @@ With prefabs where names are similar Udon can cause compiling errors, With my sy
 <h1 align="center">How it works</h1>
 <p  align="center">Using a main Udon Script that calls on a different Udon Script. This will run with the settings from the main Script, when using the global script secondary script will run globally, when using the local script it will run the secondary script locally.</p>
 <p align="center">
-<img align="middle"  width="400" height="200"  src="https://i.ibb.co/TrzTNbW/Cap1.png">
+<img align="middle"  width="600" height="350"  src="https://i.ibb.co/VWHvSTg/Cap3.png">
 </p>
 <h1 align="center">Requierments</h1>
 <p align="center">-VRChat SDK 3-</p>
