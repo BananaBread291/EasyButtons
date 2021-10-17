@@ -3,6 +3,8 @@
 <img align="middle"  width="400" height="400"  src="https://i.ibb.co/2s076QQ/Logo.png">
 </p>
 
+<p  align="center">Global Version not Syncing with Late Joiners!</p>
+
 <h1 align="center">Easy Buttons</h1>
 <p  align="center"> Easy Buttons is a prefab, that is made for people who aren't familiar with coding. </p>
 
