@@ -3,11 +3,9 @@
 <img align="middle"  width="400" height="400"  src="https://i.ibb.co/2s076QQ/Logo.png">
 </p>
 
-<p  align="center">Global Version not Syncing with Late Joiners!</p>
-
 <h1 align="center">Easy Buttons</h1>
 <p  align="center"> Easy Buttons is a prefab, that is made for people who aren't familiar with coding. </p>
-<p  align="center"> Important: Easy Buttons might be replaced with Easy UI, a collection of prefabs created with UIs.</p>
+<p  align="center"> Important: Easy Buttons might be replaced with Easy UI, a collection of prefabs created with UIs. Global Version not Syncing with Late Joiners!</p>
 
 <h1 align="center">Why I made this</h1>
 <p  align="center">Some of my friends still use 2.0 because 3.0 is very difficult, if you don't know how to use U # or Graph, I have made a more simple system.
