@@ -21,6 +21,4 @@ With prefabs where names are similar Udon can cause compiling errors, With my sy
 <p align="center">-UdonSharp-</p>
 
 <p align="center">If you find any bugs/problems send me a Discord BananaBread#7393</p>
-<p align="center">
-<a href="https://vrch.at/general-gauduck-6cc87">World with this prefab</a>
 </p>
